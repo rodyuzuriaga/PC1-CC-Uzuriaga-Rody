@@ -1,5 +1,6 @@
-# Secrets
+# Secretos
 *.toml
+.streamlit/
 
 # Python
 __pycache__/
@@ -26,7 +27,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDEs
 .vscode/
 .idea/
 *.swp
